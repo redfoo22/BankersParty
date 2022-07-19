@@ -1,0 +1,10 @@
+/Users/codefoo/Desktop/RustStuff/stanking/target/debug/deps/libscrypto_derive-e69ae8a0e45ea20a.dylib: /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/lib.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/ast.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/blueprint.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/import.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/non_fungible_data.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/utils.rs
+
+/Users/codefoo/Desktop/RustStuff/stanking/target/debug/deps/scrypto_derive-e69ae8a0e45ea20a.d: /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/lib.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/ast.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/blueprint.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/import.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/non_fungible_data.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/utils.rs
+
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/lib.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/ast.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/blueprint.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/import.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/non_fungible_data.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/scrypto-derive/src/utils.rs:

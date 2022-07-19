@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/codefoo/Desktop/RustStuff/stanking/target/wasm32-unknown-unknown/release/build/typenum-a359004a8bfb9910/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/codefoo/Desktop/RustStuff/stanking/target/wasm32-unknown-unknown/release/build/typenum-a359004a8bfb9910/out/op.rs

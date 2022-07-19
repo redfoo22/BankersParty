@@ -1,0 +1,12 @@
+/Users/codefoo/Desktop/RustStuff/stanking/target/debug/deps/sbor-2c07966d7f9ba967.rmeta: /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/lib.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/any.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/decode.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/describe.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/encode.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/path.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/rust.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/type_id.rs
+
+/Users/codefoo/Desktop/RustStuff/stanking/target/debug/deps/sbor-2c07966d7f9ba967.d: /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/lib.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/any.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/decode.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/describe.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/encode.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/path.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/rust.rs /Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/type_id.rs
+
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/lib.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/any.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/decode.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/describe.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/encode.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/path.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/rust.rs:
+/Users/codefoo/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/8c176b7/sbor/src/type_id.rs:

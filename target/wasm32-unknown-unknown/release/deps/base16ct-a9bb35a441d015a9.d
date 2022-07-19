@@ -1,0 +1,12 @@
+/Users/codefoo/Desktop/RustStuff/stanking/target/wasm32-unknown-unknown/release/deps/base16ct-a9bb35a441d015a9.rmeta: /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lib.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lower.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/mixed.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/upper.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/display.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/error.rs
+
+/Users/codefoo/Desktop/RustStuff/stanking/target/wasm32-unknown-unknown/release/deps/libbase16ct-a9bb35a441d015a9.rlib: /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lib.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lower.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/mixed.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/upper.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/display.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/error.rs
+
+/Users/codefoo/Desktop/RustStuff/stanking/target/wasm32-unknown-unknown/release/deps/base16ct-a9bb35a441d015a9.d: /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lib.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lower.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/mixed.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/upper.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/display.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/error.rs
+
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lib.rs:
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lower.rs:
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/mixed.rs:
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/upper.rs:
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/display.rs:
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/error.rs:

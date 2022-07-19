@@ -1,0 +1,11 @@
+/Users/codefoo/Desktop/RustStuff/stanking/target/wasm32-unknown-unknown/release/deps/signature-918866e064919408.rmeta: /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs
+
+/Users/codefoo/Desktop/RustStuff/stanking/target/wasm32-unknown-unknown/release/deps/libsignature-918866e064919408.rlib: /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs
+
+/Users/codefoo/Desktop/RustStuff/stanking/target/wasm32-unknown-unknown/release/deps/signature-918866e064919408.d: /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs /Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs
+
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs:
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs:
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs:
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs:
+/Users/codefoo/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs:
